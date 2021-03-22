@@ -1,5 +1,5 @@
 //From sample
-
+package sample
 package mainn
 package main
 
