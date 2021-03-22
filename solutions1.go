@@ -1,3 +1,4 @@
+//From sample
 package main
 
 import "fmt"
