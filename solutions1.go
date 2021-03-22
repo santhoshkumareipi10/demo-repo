@@ -1,4 +1,6 @@
 //From sample
+
+package mainn
 package main
 
 import "fmt"
